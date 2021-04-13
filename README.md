@@ -1,11 +1,13 @@
 # Presentacion
-![mi foto ](C:\Users\nada\Desktop\foto).
 
-hola me nombre es **Naadia Huaqui**
+
+![](foto.jpeg)
+
+hola me nombre es **Nadia Huaqui**
 
 Mi legajo es: 1503145
 
-vivo en capital feral villa crespo.
+vivo en capital feral villa 
 
 
 
