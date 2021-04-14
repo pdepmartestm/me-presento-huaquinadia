@@ -9,5 +9,3 @@ Eloigi ests carrera no porque me guste la tecnologia ya que esta no apunta ella,
 
 
 
-
-d
