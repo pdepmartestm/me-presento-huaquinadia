@@ -1,13 +1,13 @@
-# Presentacion
+# **Presentacion**
 
 
-![](foto.jpeg)
+Me llamo *Nadia Huaqui* ,mi numero de legajo es: *1503145*  , vivo en villa crespo.
+Eloigi ests carrera no porque me guste la tecnologia ya que esta no apunta ella, la utiliza que es diferente si no porque me gusta creer e innovar diferentes sistemas deinformacion, a diferencia de muchos amo la parte gerencial de estacarrera, no quita que algo me atrae onbio como a todos el desarrollo.
 
-hola me nombre es **Nadia Huaqui**
-
-Mi legajo es: 1503145
-
-vivo en capital feral villa 
+![mi foto](foto.jpeg)
 
 
 
+
+
+d
